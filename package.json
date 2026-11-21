@@ -1,0 +1,1 @@
+{"description":"Dusk Garden — a top-down stealth game: a fox gathers golden fireflies and slips out of a walled garden past gardener-guards and their lantern cones.","license":"MIT","name":"dusk-garden","scripts":{"serve":"node serve.ts","start":"node main.ts"},"type":"module","version":"1.0.0"}
